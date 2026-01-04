@@ -1,0 +1,80 @@
+﻿id,name,description
+12334403,auth,
+12317908,auto-failover,Automatic failover
+12312428,benchmarks,
+12319326,bin,shell scripts and the like
+12311543,build,Build scripts
+12337121,client-mounts,
+12339713,cloud-storage,
+12339150,command,
+12330961,common,
+12339157,compress,
+12310711,conf,Hadoop configuration mechanism.
+12311822,contrib/cloud,
+12312095,contrib/eclipse-plugin,Eclipse Map/Reduce plug-in
+12312090,contrib/hod,
+12312477,contrib/serialization,Contributed implementations of org.apache.hadoop.io.serializer.Serialization.
+12339714,cos,
+12339153,crypto,
+12339211,CVE,
+12339821,docker,
+12311160,documentation,
+12339140,erasure-coding,
+12312386,filecache,
+12310689,fs,Generic FileSystem code
+12331123,fs/adl,
+12328416,fs/azure,Azure WASB filesystem client
+12334406,fs/cos,
+12339608,fs/gcs,
+12338603,fs/huawei,
+12331039,fs/oss,
+12311814,fs/s3,S3A filesystem client and other S3 connectivity issues
+12322935,fs/swift,Support for openstack Swift Filesystem
+12339817,fs/volcano,
+12316608,ha,High Availability
+12339766,hadoop-auth,
+12339803,hadoop-aws,
+12339777,hadoop-azure,
+12339615,hadoop-common,
+12339716,hadoop-nfs,
+12335903,hadoop-thirdparty,
+12339616,hadoop-tools,
+12339824,hadoop-tos,
+12339610,hdfs,
+12332432,hdfs-client,
+12335600,httpfs,
+12339715,huaweicloud,
+12310687,io,
+12310688,ipc,
+12324364,kms,
+12327038,ld,
+12339612,mapreduce,
+12310971,metrics,
+12333121,minikdc,
+12312070,native,The native code that is loaded into the jvm
+12319327,net,networking components
+12320834,nfs,
+12339168,ozone,
+12316502,performance,Tag for performance related improvements/optimizations
+12329644,precommit,
+12339401,RBF,
+12310970,record,
+12334972,registry,
+12329703,rpc-server,
+12311393,scripts,
+12312526,security,
+12324522,site,
+12329645,streaming,
+12311440,test,Testing support software
+12319643,tools,Hadoop tools
+12319644,tools/distcp,Distcp
+12327646,tools/pipes,
+12339820,tos,
+12325116,tracing,
+12319645,trash,Trash
+12310740,util,
+12318800,viewfs,View file system (Federation)
+12334720,website,
+12339158,winutils,
+12339611,yarn,
+12327332,yetus,

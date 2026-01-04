@@ -1,0 +1,69 @@
+﻿id,name,description
+12331912,api,Oak API
+12324386,auth-external,Oak External Authentication
+12324387,auth-ldap,Oak LDAP Authentication
+12327522,authorization-cug,Oak CUG Authorization
+12335369,authorization-principalbased,
+12332458,benchmarks,Oak Benchmarks
+12322602,blob,Oak Blob Store
+12332917,blob-cloud,
+12333300,blob-cloud-azure,
+12339527,blob-cloud-gcp,
+12332555,blob-plugins,Oak Blob Plugins
+12326717,cache,
+12318531,commons,Oak Commons
+12332467,composite,Oak Composite Node Store
+12331094,continuous integration,Issues auto reported by CI
+12317803,core,Oak Core
+12332556,core-spi,Oak Core SPI
+12339515,data,
+12320827,doc,Oak Documentation
+12339500,doc-railroad-macro,
+12336165,docs,
+12328225,documentmk,DocumentNodeStore
+12334974,elastic-search,
+12328326,examples,
+12327574,exercise,Oak Exercises and Training Material
+12332439,indexing,Asynchronous and Sync Indexing
+12317805,it,Integration Tests
+12339302,it-osgi,
+12335384,jackrabbit-api,
+12317804,jcr,JCR Binding
+12326663,lucene,Lucene
+12317814,mk,MikroKernel (deprecated)
+12319913,mongomk,Mongo Store
+12339029,oak-examples,
+12333546,oak-http,
+12333607,oak-run,
+12333864,oak-search,
+12339027,oak-search-elastic,
+12338796,oak-shaded-guava,
+12339028,oak-solr-core,
+12335613,osgi,
+12317808,parent,Parent POM
+12325112,pojosr,
+12332440,property-index,Property Index related issues
+12320003,query,Query
+12322500,rdbmk,RDB Store
+12322318,remoting,Oak Remoting
+12317807,run,Runnable Jar
+12339205,run-commons,
+12334700,search,
+12335601,search-elastic,
+12333401,search-mt,
+12320828,security,Vulnerabilities and Security Issues
+12333543,security-spi,Oak Security SPI
+12337655,segment-aws,
+12334703,segment-azure,
+12329487,segment-tar,Segment Store Tar
+12320387,segmentmk,Segment Store
+12338907,shaded-guava,
+12320390,solr,Oak Solr index
+12338925,standalone,
+12334624,store-composite,
+12332557,store-spi,Oak NodeStore and Commit SPI
+12325109,tarmk-standby,Oak TarMK Standby
+12335228,tes,
+12335337,test,
+12321728,upgrade,Oak Upgrade
+12327590,webapp,

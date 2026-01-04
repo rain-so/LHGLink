@@ -1,0 +1,43 @@
+﻿id,name,description
+12314182,agent,Breakup
+12322517,allocation,Resource Allocation
+12314186,build,"Breakup: cmake, autotools, packaging"
+12314189,c++ api,
+12321606,cli,Command Line Interface
+12328026,cmake,CMake build system
+12334200,cni,
+12322315,containerization,Containerization
+12324727,docker,Docker containerizer
+12317001,documentation,Project Documentation
+12331125,executor,"Default, command, docker executors"
+12324424,fetcher,Fetcher cache and Mesos fetcher
+12328925,flaky,Triage and delete.
+12316811,framework,Triage
+12331121,gpu,
+12327614,HTTP API,
+12333562,image-gc,
+12314184,java api,
+12323303,json api,v0 Operator API
+12327201,leader election,
+12320300,libprocess,Related to libprocess
+12334516,libprocs,
+12314181,master,Breakup
+12334602,metrics,
+12324367,modules,
+12329910,network,
+12327629,oversubscription,
+12320710,project website,
+12332547,provisioner,
+12314185,python api,
+12316812,release,Related to official Apache Mesos releases
+12321605,replicated log,The leplicated log provided by Mesos.
+12334628,resource provider,
+12324374,reviewbot,ReviewBoard Bot
+12329704,scheduler api,
+12327581,scheduler driver,
+12322704,security,Find Adam's email
+12322314,statistics,Statistics
+12328024,storage,Storage
+12322316,stout,Related to stout. Break it up?
+12314190,test,Change to label?
+12314187,webui,WebUI Dashboard

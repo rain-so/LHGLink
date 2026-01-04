@@ -1,0 +1,65 @@
+﻿id,name,description
+12330935,Apache Sling Testing Clients,
+12330936,Apache Sling Testing Rules,
+12311944,API,Sling API issues
+12334509,App CMS,
+12334510,App CMS Reference,
+12313713,Authentication,Issues related to the Authentication framework like the Sling Authenticator or any of the Sling Authentication Handler implementations
+12321028,Best practices,"Things that we want to improve in our code over time, recommended ways to do things etc."
+12339104,Bnd Plugins,
+12333555,Build and Source Control,
+12334726,Capabilities,https://github.com/apache/sling-org-apache-sling-capabilities
+12331052,CI,"Issues related to managing the Sling builds on various CI systems such as Jenkins, Buildbot, Travis, etc"
+12312322,Commons,All issues for modules in commons which don't have an own category and general commons issues.
+12312091,Console,Sling Web Console related issues
+12323405,Content Distribution,Content Distribution Module
+12331409,Content Distribution Integration Tests,ITs for Content Distribution
+12335606,Content Parser,
+12335407,Content-Package to Feature Model Converter,
+12322655,Crankstart,The Sling Crankstart alternate launcher
+12334001,Discovery,
+12312328,Documentation,"All issues related to documentation, the web site and the wiki."
+12311940,Engine,Sling Engine Bundle
+12330926,Event,
+12312240,Extensions,All modules placed in the extensions folder and not covered by any other component
+12322200,Feature Flags,https://cwiki.apache.org/confluence/display/SLING/Sling+Feature+Flags+support
+12335417,Feature InventoryPrinters,
+12334004,Feature Model,Sling Feature Model
+12335602,Feature Model Analyser,
+12312329,General,All issues that have to do with Sling in general
+12337226,GraphQL,
+12330969,HApi,
+12330867,HApi Client,
+12320832,Health Check,Health Check services
+12337962,HTL,
+12330927,i18n,
+12320908,IDE,Tooling for IDEs
+12312464,Installer,"Provisioning and Installation Infrastructure - OOTB Support for bundles, configurations from file systems and JCR repository"
+12311946,JCR,"JCR Repository Integration: JCR API, Jackrabbit server and client, JCR ClassLoader, Object Content Mapping and WebDAV.  Please use Component ""JCR Resource"" for the ResourceResolver implementation issues."
+12331112,JUnit Core,
+12330836,Karaf,Sling's Karaf Features and Distribution (and Integration Tests)
+12312146,Launchpad,Launchpad related issues
+12311945,Maven Plugins and Archetypes,Maven Plugins and Archetypes for Sling
+12327687,NoSQL,
+12321023,Oak,Oak integration
+12334724,pipes,
+12314700,Portal,The Sling Portal Container
+12330874,Repoinit,Repository Initializers and repoinit mini-language
+12322515,Resource Access Security,Implementation of ResourceAccessSecurity
+12339136,Resource Observation Annotations,
+12318907,ResourceResolver,Implementation of the Resource Resolver and its Factory
+12312306,Samples,
+12311942,Scripting,ScriptResolver implementation and additional helper API. This component should also be used for script language bindings other than JSP.
+12320728,Service User Mapper,The Service User Mapper to map service names to names for repository access.
+12313028,Servlets,"Issues regarding Servlet Resolution and default servlets (GET, POST, etc.)"
+12312148,Site,Issues realated to the Sling Web Site
+12335363,Sling Models,
+12338645,Sling Pipes,
+12323406,Sling Query,Sling Query module
+12337959,Sling Security,
+12333807,Starter,
+12312147,Testing,Unit and Integration Test issues
+12337942,Thumbnails,
+12327304,Tooling,
+12324370,Validation,Sling Validation framework
+12330871,XSS Protection API,

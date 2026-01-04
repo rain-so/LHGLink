@@ -1,0 +1,42 @@
+﻿id,name,description
+12324907,admin,
+12323011,build,gradle
+12315218,clients,
+12324396,compression,
+12315222,config,
+12327569,connect,Connect packages and connectors
+12320324,consumer,consumer
+12315219,contrib,
+12320321,controller,distributed co-ordination controller
+12315217,core,
+12339522,docker,
+12336301,docs,
+12330912,documentation,
+12337663,generator,
+12338534,group-coordinator,
+12337262,jbod,
+12339511,kip,
+12337892,kraft,
+12320320,log,persistence layer
+12335329,log cleaner,
+12334500,logging,"log4j related issues, debugging improvement, etc"
+12330201,metrics,
+12339127,migration,
+12334501,mirrormaker,mirrormaker related issues
+12320322,network,the network layer
+12326920,offset manager,
+12315220,packaging,
+12320325,producer ,producer
+12336000,protocol,
+12320323,purgatory,request purgatory
+12337323,release,
+12320326,replication,replication
+12324383,security,
+12327571,streams,Streams library architecture and APIs
+12335436,streams-test-utils,
+12324423,system tests,
+12339012,Tiered-Storage,
+12320366,tools,Kafka tools
+12324911,unit tests,
+12315221,website,
+12324913,zkclient,

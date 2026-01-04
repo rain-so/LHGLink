@@ -1,0 +1,16 @@
+Compared to,Metric,Baseline(issue) Mean(%),Other Mean(%),%Improved,p-value,Sig.,Cohen_d,A_hat12
+issue-assignee graph,AUC,87.48,91.54,4.64,0.000559,***,0.751,0.705
+issue-assignee graph,Accuracy,79.24,84.81,7.03,0.000438,***,0.91,0.753
+issue-assignee graph,Recall,86.48,90.28,4.39,0.004073,**,0.757,0.697
+issue-assignee graph,Precision,76.65,81.8,6.72,0.002426,**,0.69,0.684
+issue-assignee graph,F1-Score,80.9,85.68,5.91,0.000204,***,1.005,0.752
+issue-component graph,AUC,87.48,91.9,5.06,0.000238,***,0.865,0.733
+issue-component graph,Accuracy,79.24,85.83,8.31,1.3e-05,***,1.17,0.83
+issue-component graph,Recall,86.48,91.59,5.9,0.000319,***,0.927,0.775
+issue-component graph,Precision,76.65,82.5,7.64,0.000127,***,0.828,0.711
+issue-component graph,F1-Score,80.9,86.59,7.03,1.3e-05,***,1.301,0.853
+complete,AUC,87.48,95.11,8.72,0.0,***,1.53,0.922
+complete,Accuracy,79.24,90.4,14.09,0.0,***,2.014,0.968
+complete,Recall,86.48,94.19,8.91,5.2e-05,***,1.7,0.889
+complete,Precision,76.65,87.84,14.6,1e-06,***,1.606,0.883
+complete,F1-Score,80.9,90.79,12.23,0.0,***,2.331,0.97

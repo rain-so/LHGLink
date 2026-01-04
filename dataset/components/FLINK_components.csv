@@ -1,0 +1,93 @@
+﻿id,name,description
+12336150,API / Core,
+12328233,API / DataSet,Status: Feb-2019 proposal.
+12328349,API / DataStream,Status: Feb-2019 proposal.
+12323003,API / Python,Status: Feb-2019 proposal.
+12322940,API / Scala,Status: Feb-2019 proposal.
+12336009,API / State Processor,
+12327020,API / Type Serialization System,Status: Feb-2019 proposal.
+12338656,Autoscaler,
+12335370,Benchmarks,"Added after email from Piotr (May 15, 2019)"
+12322941,Build System,Status: Feb-2019 proposal.
+12336516,Build System / Azure Pipelines,
+12337261,Build System / CI,
+12336400,Build System / Stateful Functions,
+12332934,BuildSystem / Shaded,Status: Feb-2019 proposal.
+12335008,chinese-translation,
+12335704,Client / Job Submission,
+12328000,Command Line Client,Status: Feb-2019 proposal.
+12338618,Connectors / AWS,
+12330713,Connectors / Cassandra,Status: Feb-2019 proposal.
+12327039,Connectors / Common,Status: Feb-2019 proposal.
+12338536,Connectors / DynamoDB,
+12332418,Connectors / ElasticSearch,Status: Feb-2019 proposal.
+12329800,Connectors / FileSystem,Status: Feb-2019 proposal.
+12338581,Connectors / Firehose,
+12335328,Connectors / Google Cloud PubSub,
+12335023,Connectors / Hadoop Compatibility,Status: Feb-2019 proposal.
+12335024,Connectors / HBase,Status: Feb-2019 proposal.
+12326711,Connectors / Hive,Status: Feb-2019 proposal.
+12339826,Connectors / HTTP,
+12339013,Connectors / HybridSource,
+12335025,Connectors / JDBC,Status: Feb-2019 proposal.
+12326709,Connectors / Kafka,Status: Feb-2019 proposal.
+12329660,Connectors / Kinesis,Status: Feb-2019 proposal.
+12339217,Connectors / Kudu,
+12338563,Connectors / MongoDB,
+12335102,Connectors / Nifi,Status: Feb-2019 proposal.
+12338539,Connectors / Opensearch,
+12335104,Connectors / ORC,Status: Feb-2019 proposal.
+12338665,Connectors / Parent,
+12339011,Connectors / Prometheus,
+12337945,Connectors / Pulsar,
+12338561,Connectors / Redis Streams,
+12332933,Connectors/ RabbitMQ,Status: Feb-2019 proposal.
+12334302,Deployment / Kubernetes,Status: Feb-2019 proposal.
+12331068,Deployment / Mesos,Status: Feb-2019 proposal.
+12324761,Deployment / Scripts,Status: Feb-2019 proposal.
+12331030,Deployment / YARN,Status: Feb-2019 proposal.
+12322938,Documentation,Status: Feb-2019 proposal.
+12337103,Documentation / Training,
+12337102,Documentation / Training / Exercises,
+12323006,Examples,Status: Feb-2019 proposal.
+12333503,FileSystems,Status: Feb-2019 proposal.
+12339121,Flink CDC,
+12324771,flink-contrib,
+12331021,flink-docker,Status: updated August 20 (see ml)
+12334803,"Formats (JSON, Avro, Parquet, ORC, SequenceFile)",Status: Feb-2019 proposal.
+12337312,fs,
+12338155,Kubernetes Operator,
+12325325,Legacy Components / Flink on Tez,Status: Feb-2019 proposal.
+12327623,Legacy Components / Storm Compatibility,Status: Feb-2019 proposal.
+12328770,Library / CEP,Status: Feb-2019 proposal.
+12324901,Library / Graph Processing,Status: Feb-2019 proposal.
+12325122,Library / Machine Learning,Status: Feb-2019 proposal.
+12322939,Project Website,Status: Feb-2019 proposal.
+12324751,Quickstarts,Status: Feb-2019 proposal.
+12334210,Release System,Status: Feb-2019 proposal.
+12339600,Runtime / Async State Processing,
+12335101,Runtime / Checkpointing,Status: Feb-2019 proposal.
+12332560,Runtime / Configuration,Status: Feb-2019 proposal.
+12323014,Runtime / Coordination,Status: Feb-2019 proposal.
+12329702,Runtime / Metrics,Status: Feb-2019 proposal.
+12330706,Runtime / Network,Status: Feb-2019 proposal.
+12331404,Runtime / Queryable State,Status: Feb-2019 proposal.
+12333127,Runtime / REST,Status: Feb-2019 proposal.
+12338305,Runtime / RPC,
+12328799,Runtime / State Backends,Status: Feb-2019 proposal.
+12323000,Runtime / Task,"Status: Updated after email from Piotr (May 15, 2019)"
+12322943,Runtime / Web Frontend,Status: Feb-2019 proposal.
+12327115,Scala Shell,Status: Feb-2019 proposal.
+12336303,Stateful Functions,The Stateful Functions API in the flink-statefun repository.
+12325118,Table SQL / API,See discussion in https://lists.apache.org/thread.html/4c30bde43d81b25c27a756e360e5ac26a63848bdb9bc00cec7fa1181@%3Cdev.flink.apache.org%3E
+12334524,Table SQL / Client,See discussion in https://lists.apache.org/thread.html/4c30bde43d81b25c27a756e360e5ac26a63848bdb9bc00cec7fa1181@%3Cdev.flink.apache.org%3E
+12335219,Table SQL / Ecosystem,See discussion in https://lists.apache.org/thread.html/4c30bde43d81b25c27a756e360e5ac26a63848bdb9bc00cec7fa1181@%3Cdev.flink.apache.org%3E
+12338334,Table SQL / Gateway,
+12338787,Table SQL / JDBC,JDBC driver for accessing and manipulating Apache Flink clusters by connecting to a Flink SQL Gateway as the JDBC server.
+12335217,Table SQL / Legacy Planner,See discussion in https://lists.apache.org/thread.html/4c30bde43d81b25c27a756e360e5ac26a63848bdb9bc00cec7fa1181@%3Cdev.flink.apache.org%3E
+12335022,Table SQL / Planner,See discussion in https://lists.apache.org/thread.html/4c30bde43d81b25c27a756e360e5ac26a63848bdb9bc00cec7fa1181@%3Cdev.flink.apache.org%3E
+12335218,Table SQL / Runtime,See discussion in https://lists.apache.org/thread.html/4c30bde43d81b25c27a756e360e5ac26a63848bdb9bc00cec7fa1181@%3Cdev.flink.apache.org%3E
+12338119,Table Store,
+12334711,Test Infrastructure,Status: Feb-2019 proposal.
+12325100,Tests,
+12332940,Travis,Status: Feb-2019 proposal.

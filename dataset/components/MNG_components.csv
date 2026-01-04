@@ -1,0 +1,36 @@
+﻿id,name,description
+12339110,API,
+12325600,Artifacts and Repositories,
+12325609,Bootstrap & Build,
+12338102,build/consumer,
+12325628,Class Loading,
+12325617,Command Line,
+12327601,Core,
+12325618,Dependencies,
+12325619,Deployment,
+12325603,"Design, Patterns & Best Practices",
+12325604,Documentation:  General,
+12325612,Documentation: FAQ,
+12325611,Documentation: Guides,
+12325613,Documentation: Introductions,
+12325608,Embedding,This module give an tool integrators and easy way to embed Maven.
+12325622,Errors,
+12325629,FDPFC,Features dependent on POM Format Changes
+12325623,General,
+12325621,IDEs,
+12325607,Inheritance and Interpolation,
+12325610,Integration Tests,
+12325605,Logging,
+12337266,Maven Wrapper,
+12325626,Multiple Language Support,"holds references to issues that deal with integrating non-Java support into Maven, such as .Net and C/C++"
+12325616,Performance,
+12325606,Plugin API,
+12325614,Plugin Requests,Ideas for new plugins whether they be ones that existed in m1 or plugins that pertain to m2 itself. Ideas can be started here so everyone can have access and then they can be moved to the plugin matrix.
+12325602,Plugins and Lifecycle,
+12325601,POM,
+12325627,POM::Encoding,Encoding issues with the POM.
+12325625,Profiles,
+12325615,Reactor and Workspace,
+12325624,Settings,
+12325620,Sites & Reporting,
+12325630,Toolchains,

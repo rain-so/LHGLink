@@ -1,0 +1,48 @@
+﻿id,name,description
+12339163,aggregate,
+12315625,applicationmaster,
+12312985,benchmarks,
+12312909,build,
+12312900,capacity-sched,
+12312982,client,Code for submitting and monitoring jobs
+12339169,common,
+12313276,contrib/data-join,Hadoop contrib/data_join module
+12313275,contrib/dynamic-scheduler,Hadoop Dynamic Scheduler
+12313175,contrib/eclipse-plugin,Eclipse Map/Reduce plug-in
+12312901,contrib/fair-share,
+12313086,contrib/gridmix,
+12313220,contrib/index,
+12313274,contrib/mrunit,MRUnit is a unit test library designed to facilitate easy integration between your MapReduce development process and standard development and testing tools
+12313087,contrib/mumak,
+12313416,contrib/raid,HDFS Raid Implementation
+12312905,contrib/streaming,
+12313273,contrib/vaidya,Hadoop-Vaidya is a rule based performance diagnostic tool for MapReduce jobs
+12313270,contrib/vertica,Native and streaming support for Vertica DBMS
+12312902,distcp,
+12313271,distributed-cache,MapReduce DistributedCache
+12312910,documentation,
+12312911,examples,
+12312903,harchive,
+12313413,job submission,
+12315343,jobhistoryserver,
+12312907,jobtracker,
+12339142,mapreduce-client,
+12315342,mr-am,
+12315344,mrv1,
+12314301,mrv2,MR-279: Map Reduce Next.
+12330832,nativetask,
+12315341,nodemanager,
+12316500,performance,Tag for performance-related improvements/optimizations
+12312908,pipes,
+12315340,resourcemanager,
+12315345,scheduler,
+12323604,scripts,
+12313041,security,
+12312920,task,The code that runs in the child task process.
+12313272,task-controller,TaskController
+12312906,tasktracker,
+12312904,test,
+12339164,tets,
+12313617,tools/rumen,A tool for parsing and manipulating job history traces for use in simulation and benchmarking.
+12316700,webapps,
+12331061,yarn,

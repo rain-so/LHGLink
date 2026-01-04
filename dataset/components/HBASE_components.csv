@@ -1,0 +1,119 @@
+﻿id,name,description
+12336829,acl,
+12319666,Admin,"Table create, disable, enable, etc."
+12332582,amv2,
+12324322,API,
+12331047,asyncclient,
+12333809,backport,
+12333532,backup&restore,
+12319668,Balancer,
+12323302,BlockCache,Issues to do with BlockCache.
+12328314,BucketCache,
+12312130,build,HBase Build.  Includes issues with maven and modularization.
+12327517,canary,
+12312131,Client,HBase Java API
+12328412,community,
+12319905,Compaction,
+12333803,compatibility,
+12333572,conf,
+12322646,Consensus,Anything to do w/ quorums around cluster state or even reading and writing
+12314191,Coprocessors,Coprocessors framework and built-in examples.
+12336003,create-release,
+12328969,dataloss,
+12319664,Deletes,
+12338171,dependabot,
+12324413,dependencies,
+12312132,documentation,"HBase reference guide, etc."
+12326712,encryption,
+12331802,FavoredNodes,
+12319667,Filesystem Integration,
+12312133,Filters,
+12328767,findbugs,
+12336304,flakies,
+12336300,grpc,
+12328968,hadoop-azure,
+12319637,hadoop2,Issues related to hadoop/hdfs 2+ integration.
+12330940,hadoop3,
+12334502,hbase-connectors,
+12334503,hbase-operator-tools,
+12332946,hbase-thirdparty,
+12315702,hbck,Problems related to recovery and repair tool.
+12334427,hbck2,
+12335336,hboss,
+12335610,hbtop,
+12319660,HFile,
+12333872,in-memory-compaction,
+12328500,Increment,
+12324410,integration tests,
+12312135,io,Problems related to shared IO classes.
+12312136,IPC/RPC,Problems related to HBase interprocess communication.
+12328409,java,
+12337602,jenkins,
+12339810,jetty12,
+12328769,jruby,
+12334423,kafka,
+12320572,LatencyResilience,"Class of issues that help us keep a constant latency across bad disks, ec2, etc."
+12329900,localization,
+12333579,logging,
+12313047,mapreduce,
+12312138,master,Problems related to HBase master server.
+12334422,meta,
+12337631,meta replicas,
+12314281,metrics,Cross-cutting concern of how and where we expose metrics or statistics of HBase operations.
+12315703,migration,
+12324354,mob,
+12315704,monitoring,
+12338104,mover,
+12320396,MTTR,Mean Time To Recover issues.
+12337882,multiwal,
+12335315,native-client,
+12338504,netty,
+12337228,Normalizer,
+12323407,Offheaping,Issues related to offheaping project
+12321806,Operability,Issues that help with the operation of hbase.
+12337324,PE,
+12314193,Performance,Performance optimizations or regressions.
+12333863,phoenix,
+12324611,pom,
+12327326,prefixtree,
+12326702,proc-v2,
+12336148,profiler,
+12319665,Protobufs,
+12335334,Quotas,
+12335621,RC,
+12333763,read replicas,
+12327527,Recovery,
+12319661,Region Assignment,"Includes Assignment Manager, Region Splits."
+12336200,RegionProcedureStore,
+12312139,regionserver,Problems related to HBase region server.
+12313650,Replication,
+12312140,REST,Problems related to the REST interface to HBase.
+12329613,rpc,
+12331800,rsgroup,
+12338503,sasl,
+12324519,scaling,
+12337220,scan,
+12319662,Scanners,Includes QueryMatching.
+12335335,Scheduler,
+12312141,scripts,Problems related to HBase scripts for starting/stopping/etc.
+12314192,security,"Authentication, Authorization, Auditing, etc."
+12339513,SFT,
+12332935,shading,
+12313571,shell,HBase shell and ruby code.
+12336747,shutdown,
+12339900,site,
+12319654,snapshots,HBase Table Snapshot operations.
+12327535,spark,
+12312142,test,Problems related to test suite.
+12333222,thirdparty,
+12312143,Thrift,Problems related to thrift connection to HBase.
+12328003,tooling,
+12329689,tracing,
+12319663,Transactions/MVCC,
+12319669,UI,
+12320397,Usability,Issues to help w/ HBase usability whether users or operators.
+12312144,util,Problems related to utility components.
+12313572,wal,Includes log splitting and replay of edits.
+12337601,walplayer,
+12328243,website,
+12313582,Zookeeper,

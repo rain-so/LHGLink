@@ -1,0 +1,20 @@
+﻿id,name,description
+12338012,C2,
+12324529,Configuration,"OS integration, enironment, startup scripts, etc.."
+12331091,Configuration Management,
+12324525,Core Framework,"Framework, libraries, API"
+12324526,Core UI,User Interface
+12332546,Docker,
+12324527,Documentation & Website,
+12324531,Examples,"Flow templates, sample processors, Maven archetypes, etc..."
+12324528,Extensions,"Processors, Prioritizers, Controller Services, Reporting Tasks, etc.."
+12334003,FDS,Fluid Design System / UI Components
+12331096,Flow Versioning,
+12337877,MiNiFi,
+12339624,NiFi API,
+12337888,NiFi Registry,
+12337104,NiFi Stateless,
+12331090,SDLC,
+12334424,Security,
+12324530,Tools and Build,"Build processes. General scripts and utilities.  Ex: Provenance scanner, sensitive property key change, Flowfile packaging, etc.."
+12331183,Variable Registry,

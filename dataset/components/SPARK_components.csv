@@ -1,0 +1,43 @@
+﻿id,name,description
+12322609,Block Manager,Block storage layer in Spark core
+12322617,Build,Build system
+12338540,Connect,
+12338903,Connect Contrib,
+12339771,Declarative Pipelines,
+12322615,Deploy,
+12322607,Documentation,Anything related to Spark docs
+12322624,DStreams,Spark DStreams API
+12322608,EC2,EC2 scripts
+12322613,Examples,
+12335226,Graph,
+12322622,GraphX,Graph processing package
+12322612,Input/Output,
+12322611,Java API,
+12334515,jenkins,
+12333571,Kubernetes,Kubernetes cluster manager backend
+12322619,Mesos,
+12324500,ML,Features under the spark.ml package
+12322621,MLlib,Machine learning library
+12328703,Optimizer,
+12338314,Pandas API on Spark,
+12322620,Project Infra,
+12338578,Protobuf,
+12339030,PS,
+12322606,PySpark,Spark Python API
+12334606,R,
+12324805,Scheduler,DAG schedulers or Task Schedulers in Spark core
+12335003,Security,
+12322610,Shuffle,
+12322605,Spark Core,
+12338600,Spark Docker,
+12323802,Spark Shell,Spark interactive shell
+12324804,Spark Submit,Spark's submission gateway and launcher library
+12325400,SparkR,R language support
+12322623,SQL,Spark SQL module
+12339017,SS,
+12331043,Structured Streaming,"Spark Streaming with DataFrames, Datasets and SQL"
+12324808,Tests,Unit tests in various components
+12339008,UI,
+12322616,Web UI,
+12322614,Windows,
+12322618,YARN,

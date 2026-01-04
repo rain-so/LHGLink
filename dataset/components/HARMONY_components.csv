@@ -1,0 +1,11 @@
+﻿id,name,description
+12311280,App-Oriented Bug Reports,Category for bug reports based on application testing using the Harmony JRE or JDK
+12311279,build - test - ci,Issues related to automated building / testing / continuous integration not specific to any particular component (like classlib)
+12310560,Classlib,
+12310327,Contributions,Contributions to the Apache Harmony project
+12311272,DRLVM,DRLVM Virtual Machine Related issues
+12311442,JDK,"For issues realated to they layout and contents of our java developers kit  (tools, etc)"
+12310091,Misc,Anything w/o a dedicated category
+12310780,Non-bug differences from RI,"Category for logging our *deliberate* incompatibilities and differences with the RI.  These are cases where we believe the RI is incorrect, the spec ambiguous, etc.  We wish to track this information for later perusal and to provide full disclosuer for users.  These decisions are not final - we may choose to reexamine these issues at any time.  If there is a difference that is not deliberate, it's a bug.  Please file it in another category."
+12310353,VM,For JIRA issues ralated to current VM code
+12310090,Website/Documentation,Issues related to the project website and other documentation

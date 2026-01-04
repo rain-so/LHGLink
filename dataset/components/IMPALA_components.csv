@@ -1,0 +1,12 @@
+﻿id,name,description
+12332402,Backend,"Memory management, codegen, operators, lifecycle, resource management, runtime profiles"
+12332404,Catalog,"Metadata catalog, authorization"
+12332405,Clients,"Client issues: shell, HS2 API behavior, JDBC, ODBC."
+12332406,Distributed Exec,"Distributed execution: RPCs, exchanges, coordination, high availability"
+12332407,Docs,Documentation
+12332408,Frontend,"Parser, analysis, planner, optimization"
+12332409,Infrastructure,"Development and test infrastructure, build, packaging"
+12332410,Perf Investigation,Pending performance investigations (documented improvements go elsewhere)
+12332411,Security,Authentication and secure transport (authorization should go in the Catalog component)
+12339416,Test,Test-only issues such as slow or unreliable tests
+12339207,Toolchain,Updates to the native-toolchain used to build Impala

@@ -1,0 +1,85 @@
+﻿id,name,description
+12328209,Accumulo Storage Handler,
+12324726,API,
+12317301,Authentication,Security Subcomponent
+12317300,Authorization,Security Subcomponent
+12336135,Avro,
+12324409,Beeline,
+12312593,Build Infrastructure,Tracks issues with build files.
+12323402,CBO,All issues dealing with Hive's cost based optimizer and its interaction with Optiq
+12313604,CLI,Command-line interpreter for Hive.
+12312587,Clients,"Tracks issues dealing with CLI, Webclient, JDBC clients or other such clients."
+12317407,Compression,Issues related to data compression
+12312591,Configuration,Tracks HiveConf related issues.
+12313001,Contrib,
+12317906,Database/Schema,Issues related to support for multiple Datasbases/Schemas
+12314270,Diagnosability,"Error messages, logging, diagnostics, etc."
+12331023,distribution,
+12312589,Documentation,Tracks documentation bugs.
+12330863,Druid integration,
+12324791,Encryption,
+12320633,File Formats,File Formats
+12313461,HBase Handler,
+12327572,HBase Metastore,Metastore using hbase to store metadata
+12320409,HCatalog,Tracks issues related to the HCatalog
+12325007,Hive,
+12339819,hive-site,
+12320408,HiveServer2,Tracks issues related to HiveServer2
+12339769,"HiveServer2, kafka integration",
+12331051,Hooks,
+12327523,hpl/sql,Procedural SQL
+12338615,Iceberg integration,
+12317307,Import/Export,
+12313710,Indexing,
+12314178,JDBC,
+12337343,JDBC storage handler,
+12334616,kafka integration,Hive kafka integration
+12339778,Kudu Storage Handler,
+12329018,lineage,
+12328311,llap,
+12317303,Locking,Issues related to the Locking system
+12312594,Logging,Tracks issues dealing with logging and log messages.
+12323400,Logical Optimizer,Optimizations which are independent of runtime.
+12327662,Macros,SQL Macros
+12330868,Materialized views,
+12312584,Metastore,Tracks issue dealing with metastore.
+12314179,ODBC,
+12317404,OLAP,Analytic SQL
+12331026,Operators,
+12328244,ORC,
+12329489,p,
+12336134,Parquet,
+12324450,Parser,Hive grammar
+12323401,Physical Optimizer,Optimizations which are dependent on runtime
+12320378,PTF-Windowing,Partitioned Table Functions & Windowing
+12324798,Query Planning,
+12312586,Query Processor,Tracks issues dealing with query processing.
+12330946,Reader,
+12330937,repl,
+12313866,Security,
+12312585,Serializers/Deserializers,Tracks issues dealing with serdes
+12312588,Server Infrastructure,Tracks issues dealing with Server infrastructure
+12316918,Shims,
+12323200,Spark,Hive on Spark
+12324504,spark-branch,
+12315100,SQL,Issues related to Hive Query Language and its conformance with ANSI SQL.
+12322653,SQLStandardAuthorization,Subcomponent of Authorization
+12333535,Standalone Metastore,
+12314312,Statistics,
+12329465,storage-api,
+12317302,StorageHandler,
+12333865,Streaming,
+12327562,Test,
+12312590,Testing Infrastructure,Tracks issues with tests and testing infrastructure.
+12317406,Tests,
+12320810,Tez,Hive utilizing Tez framework
+12314332,Thrift API,Tracks changes to the Hive Thrift APIs
+12322671,Transactions,Transaction management and ACID
+12317305,Types,Issues related to Hive Query Languages type system
+12313585,UDF,This includes the UDFs and UDAFs
+12321300,Vectorization,Vectorized query execution
+12317304,Views,
+12312592,Web UI,Tracks issues dealing with Web Interface.
+12320912,WebHCat,Provides rest interface for HCatalog
+12314201,Website,
+12318904,Windows,"Issues related to running Hive on Windows (not including Cygwin, MSYS, etc)"

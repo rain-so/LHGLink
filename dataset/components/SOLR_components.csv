@@ -1,0 +1,99 @@
+﻿id,name,description
+12325125,Admin UI,Solr's Web Admin GUI (AngularJS)
+12336007,Auditlogging,
+12327664,Authentication,
+12335232,Authorization,
+12332947,AutoScaling,
+12331400,Backup/Restore,
+12337917,benchmarks,
+12328942,blobstore,
+12313140,Build,Changes/issues w/ the build
+12328350,CDCR,Cross DataCenter Replication
+12339001,Circuit Breakers,
+12337978,cli,
+12311816,clients - C#,C# / .NET Solr Clients
+12311580,clients - java,Solr clients written in Java
+12339105,clients - js,
+12311582,clients - php,Solr clients written in PHP
+12311581,clients - python,Python client for Solr
+12311572,clients - ruby - flare,Solr Flare
+12328929,config-api,
+12334205,configset-api,
+12313050,contrib - Clustering,Cluster search results and the index
+12312438,contrib - DataImportHandler,http://wiki.apache.org/solr/DataImportHandler
+12337968,contrib - GCS Repository,
+12315701,contrib - LangId,Language identification contrib module based on Apache Tika
+12332573,contrib - LTR,
+12322317,contrib - MapReduce,Hadoop MapReduce index building
+12330105,contrib - morphlines-cell,
+12330106,contrib - morphlines-core,
+12337600,contrib - prometheus-exporter,
+12337948,contrib - S3 Repository,
+12313049,contrib - Solr Cell (Tika extraction),Extract content from rich documents using Tika
+12320338,contrib - UIMA,UIMA contrib module
+12320337,contrib - Velocity,Velocity code and /browse templates
+12339022,CrossDC,
+12324784,Data-driven Schema,
+12336167,Docker,
+12311610,documentation,documentation
+12338300,Embedded,
+12327600,examples,"Example schemas, configs and data"
+12334505,Export Writer,
+12326804,Facet Module,The Facet Module and associated JSON Facet API
+12336129,FacetComponent,
+12324728,faceting,
+12339226,function query,
+12335900,github,
+12337654,Gradle,
+12336827,Grouping,
+12324442,Hadoop Integration,
+12322520,hdfs,
+12312014,highlighter,Subsystem that finds matching hits and highlights doc snippets
+12338180,Integration Tests,
+12337946,JaegerTracer,
+12324700,JMX,
+12331024,JSON Request API,"Making requests in JSON, including facets and queries"
+12330942,logging,
+12337903,ltr,
+12331103,metrics,
+12339023,module - crossDC,
+12338799,module - kubernetes,
+12313026,MoreLikeThis,MoreLikeThis support
+12313102,multicore,"All issues related to CoreContainer, CoreAdminHandler and other multicore related parts of Solr."
+12337301,Package Manager,
+12336160,packages,
+12328768,Parallel SQL,
+12332553,Plugin system,
+12336206,query,
+12339129,Query Limits,
+12317802,query parsers,"Various query parser plugins, like dismax, edismax, lucene etc"
+12325320,release-scripts,
+12312535,replication (java),Index replication from master to slaves using pure java
+12311446,replication (scripts),Index replication from master to slaves using rsync based shellscripts
+12338909,reranker,
+12313155,Response Writers,Anything related to the various response writers used to format the results of a request
+12317000,Rules,Covers items related to Solr's Rules engine interface/implementation
+12312520,Schema and Analysis,"Issues and features related to the IndexSchema, FieldTypes, and Analysis (TokenizerFactory, TokenFilterFactory, etc.)"
+12337926,Schema Designer,
+12319221,scripts and tools,Shell scripts and support tools like post.jar
+12310674,search,Query the search collection
+12313214,SearchComponents - other,"Issues related to Search Components that aren't specifically called out elsewhere: TermsComponent, TermVector, etc."
+12326704,security,
+12337956,Security UI,
+12325020,Server,
+12324783,SimplePostTool,
+12332988,SolrCLI,bin/solr script
+12313841,SolrCloud,
+12324331,SolrJ,
+12320721,spatial,Spatial and Geo Search Related Features
+12312015,spellchecker,Returning spelling suggestions
+12332987,streaming expressions,
+12324802,Suggester,
+12338700,test-framework,
+12319802,Tests,Test issue
+12338619,tracing,
+12310673,update,Indexing and updating the search collection
+12332918,UpdateRequestProcessors,
+12332459,v2 API,
+12339779,vector-search,
+12326708,website,
